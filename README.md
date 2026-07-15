@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=40&duration=2000&pause=3000&color=90EE90&center=true&repeat=false&width=600&height=75&lines=Fancy+seeing+you+here%2C+I'm+Fauzi" alt="Typing SVG" />
 </div>
 
-## This is me <img src="assets/IDNumber3.png" height="22" align="center">
+## <img src="assets/IDNumber3.png" height="22" align="center"> About me
 I'm an **aspiring developer** who is enthusiastic about learning new things. Currently, my main focus and interest lie in **Machine Learning**, and I have hands-on experience working on both collaborative group projects and solo endeavors.
 
 My journey into machine learning was heavily inspired by the advanced **reinforcement learning** systems used in the game **Arc Raiders**. My ultimate goal is to build an equivalent AI system of my own. 
