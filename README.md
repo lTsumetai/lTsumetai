@@ -1,7 +1,7 @@
 <div align="center">
     <img width="300" src="./assets/ishmael.gif"/>    
     <br/><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=40&duration=2000&pause=3000&color=90EE90&center=true&repeat=false&width=600&height=600&lines=Fancy+seeing+you+here%2C+I'm+Fauzi"alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=40&duration=2000&pause=3000&color=90EE90&center=true&repeat=false&width=600&height=75&lines=Fancy+seeing+you+here%2C+I'm+Fauzi" alt="Typing SVG" />
 </div>
 
 
