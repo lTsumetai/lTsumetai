@@ -13,10 +13,6 @@ This vision keeps me constantly motivated, and I hope this passion continues to 
 
 ## <img src="assets/techstack.png" height="22" align="center"> Tech Stack
 
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
 | Category | Technologies |
 | :--- | :--- |
 | **Languages & Core Data** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/SQL-CC292B?style=flat&logo=scrimba&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="20"> |
