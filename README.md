@@ -1,7 +1,7 @@
 <div align="center">
-    <img width="300" src="./GithubImages/your-gif.gif"/>    
+    <img width="300" src="./assets/ishmael.gif"/>    
     <br/><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Fauzi" alt="Typing SVG" />
 </div>
 
 I'm an aspiring developer who is enthusiastic about learning new things. Currently, my main focus and interest lie in **Machine Learning**.
