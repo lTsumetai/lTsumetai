@@ -1,4 +1,4 @@
-## Yo, Im Fauzi
+# Yo, Im Fauzi <img src="GithubImages/IDNumber3.png" height="22" align="center">
 
 I'm an aspiring developer who is enthusiastic about learning new things. Currently, my main focus and interest lie in **Machine Learning**.
 I have hands-on experience working on both collaborative group projects and solo endeavors.
