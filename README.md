@@ -22,14 +22,14 @@ This vision keeps me constantly motivated, and I hope this passion continues to 
 | **Database & Search** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/psycopg2-336791?style=flat&logo=postgresql&logoColor=white" height="20"> |
 | **Infrastructure & Apps** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="20"> |
 
-## <img src="assets/Support_icon.png" height="22" align="center"> Connect with me
+## <img src="assets/Support_icon.png" align="center"> Connect with me
 
 <div align="left">
   <a href="https://linkedin.com/in/fauzimaulananugraha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> &nbsp;
   <a href="https://x.com/Fauzi_Hydro" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
   </a> &nbsp;
   <a href="mailto:fauzi.maulananugraha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
