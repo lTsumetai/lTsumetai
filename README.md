@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="150" src="https://raw.githubusercontent.com/1Tsumetai/1Tsumetai/main/assets/ishmael.gif"/>    
+    <img width="150" src="https://raw.githubusercontent.com/lTsumetai/lTsumetai/main/assets/ishmael.gif"/>    
     <br/><br/>
     <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=40&duration=2000&pause=3000&color=90EE90&center=true&repeat=false&width=600&height=75&lines=Fancy+seeing+you+here%2C+I'm+Fauzi" alt="Typing SVG" />
 </div>
