@@ -24,6 +24,6 @@ This vision keeps me constantly motivated, and I hope this passion continues to 
 
 ## <img src="assets/Hp.png" height="22" align="center"> Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://linkedin.com/in/fauzimaulananugraha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=auth0&logoColor=white)](https://linkedin.com/in/fauzimaulananugraha)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fauzi_Hydro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzi.maulananugraha@gmail.com)
