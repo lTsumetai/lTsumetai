@@ -13,8 +13,12 @@ This vision keeps me constantly motivated, and I hope this passion continues to 
 
 ## <img src="assets/techstack.png" height="22" align="center"> Tech Stack
 
+## 🛠️ Tech Stack
+
 | Category | Technologies |
 | :--- | :--- |
-| **Programming Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20"> |
-| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="20"> |
-| **Machine Learning** | *Learning Frameworks soon...* |
+| **Languages & Core Data** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="20"> |
+| **Machine Learning & NLP** | <img src="https://img.shields.io/badge/BERTopic-E91E63?style=flat&logo=huggingface&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/Autoencoders-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="20"> |
+| **Data Visualization** | <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/Altair-4E79A7?style=flat" height="20"> &nbsp; <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat" height="20"> |
+| **Database & Infrastructure** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" height="20"> &nbsp; <img src="https://img.shields.io/badge/psycopg2-336791?style=flat" height="20"> &nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="20"> |
+| **Web Applications** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="20"> |
