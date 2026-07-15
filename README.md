@@ -26,7 +26,7 @@ This vision keeps me constantly motivated, and I hope this passion continues to 
 
 <div align="left">
   <a href="https://linkedin.com/in/fauzimaulananugraha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-in&logoColor=white" alt="LinkedIn">
   </a> &nbsp;
   <a href="https://x.com/Fauzi_Hydro" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
